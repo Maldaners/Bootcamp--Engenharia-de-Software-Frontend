@@ -1,0 +1,227 @@
+[
+    {
+        "id": "1",
+        "name": "Paçoca",
+        "gender": "female",
+        "age": 1,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "2",
+        "name": "Pipoca",
+        "gender": "female",
+        "age": 2,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "3",
+        "name": "Caramelo",
+        "gender": "male",
+        "age": 3,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "4",
+        "name": "Chocolate",
+        "gender": "male",
+        "age": 4,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "5",
+        "name": "Faísca",
+        "gender": "female",
+        "age": 5,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "6",
+        "name": "Laica",
+        "gender": "female",
+        "age": 6,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "7",
+        "name": "Bebel",
+        "gender": "female",
+        "age": 7,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "8",
+        "name": "Princesa",
+        "gender": "female",
+        "age": 8,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "9",
+        "name": "Marsh",
+        "gender": "male",
+        "age": 9,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "10",
+        "name": "Mellow",
+        "gender": "male",
+        "age": 10,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "11",
+        "name": "Pudim",
+        "gender": "male",
+        "age": 11,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "12",
+        "name": "Tapioca",
+        "gender": "male",
+        "age": 12,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "13",
+        "name": "Quindim",
+        "gender": "male",
+        "age": 13,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "14",
+        "name": "Cadinho",
+        "gender": "male",
+        "age": 14,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "100",
+        "name": "Paçoca",
+        "gender": "female",
+        "age": 1,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "200",
+        "name": "Pipoca",
+        "gender": "female",
+        "age": 2,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "300",
+        "name": "Caramelo",
+        "gender": "male",
+        "age": 3,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "400",
+        "name": "Chocolate",
+        "gender": "male",
+        "age": 4,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "500",
+        "name": "Faísca",
+        "gender": "female",
+        "age": 5,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "600",
+        "name": "Laica",
+        "gender": "female",
+        "age": 6,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "700",
+        "name": "Bebel",
+        "gender": "female",
+        "age": 7,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "800",
+        "name": "Princesa",
+        "gender": "female",
+        "age": 8,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "900",
+        "name": "Marsh",
+        "gender": "male",
+        "age": 9,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "1000",
+        "name": "Mellow",
+        "gender": "male",
+        "age": 10,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "1100",
+        "name": "Pudim",
+        "gender": "male",
+        "age": 11,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "1200",
+        "name": "Tapioca",
+        "gender": "male",
+        "age": 12,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "1300",
+        "name": "Quindim",
+        "gender": "male",
+        "age": 13,
+        "ong": "PetAmigos",
+        "type": "dog"
+    },
+    {
+        "id": "1400",
+        "name": "Cadinho",
+        "gender": "male",
+        "age": 14,
+        "ong": "PetAmigos",
+        "type": "dog"
+    }
+    
+]
